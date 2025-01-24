@@ -19,7 +19,7 @@ A frontend-only community page built with React and TypeScript that allows users
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/community-page.git
+       https://github.com/nati3514/ReactTS.git
    ```
 
 2. Navigate to the project directory:
@@ -37,7 +37,7 @@ A frontend-only community page built with React and TypeScript that allows users
    npm run dev
    ```
 
-5. Open your browser and go to `[http://localhost:3000](http://localhost:5173/)` to view the application.
+5. Open your browser and go to `http://localhost:5173/` to view the application.
 
 ## Usage
 
